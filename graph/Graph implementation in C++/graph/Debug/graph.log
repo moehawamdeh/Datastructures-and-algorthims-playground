@@ -1,5 +1,0 @@
-﻿  imp.cpp
-  main.cpp
-  Generating Code...
-imp.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
-  graph.vcxproj -> C:\Users\hawam\Desktop\graph\Debug\graph.exe
